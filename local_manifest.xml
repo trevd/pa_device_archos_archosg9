@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://github.com" name="stevemp" />
+  <project name="stevemp/kernel-archos" path="kernel/archos/archos_g9" remote="stevemp" revision="jellybean" />
+  <project name="stevemp/PA_device_archos_archos_g9" path="device/archos/archos_g9" remote="stevemp" revision="jellybean" />
+</manifest>
